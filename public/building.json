@@ -1,0 +1,33 @@
+[
+    {
+        "id": "1",
+        "estate_title": "Start Of Installation Of Water",
+        "description": "The construction of ‘Sunny Season’ apartment complex is almost completed and real estate agents are ready to consult clients",
+        "location":"New York",
+        "area":"2000 sq ft",
+        "thumbnail":"https://i.ibb.co/gTh6XK9/maxresdefault.jpg",
+        "price":"50,000$"
+    },
+    {
+        "id": "2",
+        "estate_title": "Installation Of Internal Engineering",
+        "description": "Smart Home Technology installed in each apartment allows the owner to control their home in the most convenient and quick way",
+        "location":"New York",
+        "area":"1000 sq ft",
+        "thumbnail":"https://i.ibb.co/Mnw0ZZ0/1-5259244917.jpg",
+        "price":"25,000$"
+    },
+    {
+        "id": "3",
+        "estate_title": "Our Sales Office Holiday Schedule",
+        "description": "Our agency centers are located throughout the entire country ensuring you get help almost in every place anytime",
+        "location":"New York",
+        "area":"3000 sq ft",
+        "thumbnail":"https://i.ibb.co/QX4574n/shutterstock-262246583-2.jpg",
+        "price":"70,000$"
+    }
+
+  
+
+   
+]
